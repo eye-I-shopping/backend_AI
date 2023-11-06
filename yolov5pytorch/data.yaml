@@ -1,0 +1,5 @@
+train: C:\yolov5-master\fify_final_v4.v2i.yolov5pytorch\train\images
+val: C:\yolov5-master\fify_final_v4.v2i.yolov5pytorch\valid\images
+
+nc: 30
+names: ['TOP_black', 'baristarules_espressolatte', 'cafrisun', 'chilsungcider', 'chilsungcider_zero', 'cocacola', 'cocacola_zero', 'contrabass_sweetblack', 'fanta_orange', 'gatorade_lemon', 'georgiacraft_black', 'haneulbori', 'heotgaecha', 'honeyyuja', 'hotsix_org', 'letsbe', 'letsbe_grande_hazelnut', 'minutemaid_org_orange', 'narangdcider', 'oksususuyeomcha', 'pepsi_zero', 'picnic_apple', 'pocarisweat', 'powerO2_orange', 'powerade_mountainblast', 'sprite', 'sprite_zero', 'starbucks_cafelatte', 'toreta', 'welchs_grape']
